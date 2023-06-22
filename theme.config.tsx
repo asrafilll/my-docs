@@ -14,6 +14,9 @@ const config: DocsThemeConfig = {
    component: false,
   },
   darkMode: false,
+  nextThemes: {
+    forcedTheme: "light",
+  }
 }
 
 export default config
